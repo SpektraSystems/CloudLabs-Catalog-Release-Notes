@@ -8,6 +8,6 @@
     
   * Newly added courses:
 
-    * 20 Applied skills Courses
+    * 20 Applied Skills Courses
 
 -----------------
