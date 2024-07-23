@@ -1,1 +1,1 @@
-# CloudLabs-Catalouge-Release-Notes
+# CloudLabs-Catalog-Release-Notes
