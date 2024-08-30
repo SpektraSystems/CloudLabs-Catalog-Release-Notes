@@ -2,6 +2,39 @@
 
 ---------------------
 
+### 15 July 2024
+
+  * Updated with Common **Azure Technology Focus** instead of Mainstream and Future Growth in Microsoft Branded Catalog.
+  * Checked on the AI offerings missing labs content links in Microsoft Branded Catalog - 
+    * Enterprise Knowledge Base Search and Query with Azure OpenAI and Azure Cognitive Search
+    * Build your own Intelligent Copilot with Azure OpenAI
+    * Azure OpenAI and Form Recognizer BPA accelerator to improve document analysis
+   * Created New Catalog which contains **On-Demand Labs** based on Request. Below are the labs that can be supported based on request:
+     * Engage with customers using AI generated communication templates for SMS and Email
+     * Use AI to forecast customer orders
+     * Image classification with Custom Vision and Image generation using Azure OpenAI
+     * Code Generation with Azure OpenAI
+     * Deploy SAP Hana Infrastructure with AzureVM
+     * Monitoring & Backup SAP Infrastructure with Azure Services
+     * SAP: Extend and Innovate with Azure Services
+     * SAP plus extend and innovate with Data and AI
+     * SAP on Microsoft Cloud
+     * Run Java Apps with Azure Spring Apps
+     * Modernize Java Apps
+
+### 25 June 2024
+
+  * Enhancements and Quality Check
+  * Solution Play Title Updates as per Rick's Requirement. Below are the details:
+    * Innovate with AI  - **AI**
+    * Power Business Decisions with Cloud Scale Analytics - **Data Analytics** 
+    * Accelerate Developer Productivity - **DevOps & Developer Tools**
+    * Migrate and Secure Windows Server and SQL Server - **Migrate SQL and Windows Servers**
+    * Migrate SAP - **Migrate SAP**
+    * Build Inteligent Apps - **Cloud Native Development**
+    * Build and Modernize AI Apps - (move the one HOL in that area (Bicep) into DevOps & Developer Tools)
+    * Migrate Enterprise Apps - **Azure PaaS App Services**
+
 ### 07 May 2024
 
   * **Newly added Instructor-Led Tracks**: 
