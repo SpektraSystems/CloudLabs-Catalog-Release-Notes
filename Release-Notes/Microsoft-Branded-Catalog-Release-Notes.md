@@ -2,6 +2,8 @@
 
 ---------------------
 
+### 30 July 2024
+
 ### 15 July 2024
 
   * Updated with Common **Azure Technology Focus** instead of Mainstream and Future Growth in Microsoft Branded Catalog.
