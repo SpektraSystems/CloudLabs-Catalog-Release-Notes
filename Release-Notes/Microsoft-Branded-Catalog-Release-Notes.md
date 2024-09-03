@@ -1,5 +1,7 @@
 # Release Notes
 
+### [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/ETGPgzOKpnBOlRm9CSG3EPwBZFzWoBw-Ki5h4XStMqoCoQ?e=8sdWQC)
+
 ---------------------
 
 ### 30 July 2024
