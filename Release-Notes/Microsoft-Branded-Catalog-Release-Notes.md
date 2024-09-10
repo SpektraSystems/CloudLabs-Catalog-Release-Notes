@@ -1,12 +1,46 @@
 # Release Notes
 
-### [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/ETGPgzOKpnBOlRm9CSG3EPwBZFzWoBw-Ki5h4XStMqoCoQ?e=8sdWQC)
+## Latest Catalog URLs:
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EXgtOl_4v55DoUohmvZ_GeQB2e7Nx1fNDEbxpleqnBJ3SQ?e=PLvrLm)
+   - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EUGR6p0gO-FDqdhltMUbkFcBJ1t3NAo8zysqbgvoSHABDg?e=YhMGnK)
+   - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZo7rZQ6atxAiQUrRs-hka0BW_PpXMmF-SwEqhhcris1Cw?e=vbuBYj)
 
 ---------------------
 
-### 30 July 2024
+### 03 September 2024
 
-### 15 July 2024
+* Created new offerings catalog for Demo with the below tracks:
+   * Advanced Workflow Automation with GitHub Actions
+   * Enterprise-Grade Chat Solutions with Azure Machine Learning and OpenAI
+   * Optimizing Carbon Footprint with Microsoft Sustainability Manager
+   * Securing Repositories with GitHub Advanced Security
+   * Mitigating Vulnerabilities with GitHub Advanced Security and Azure DevOps
+   * Developing AI Applications with Azure AI Studio 
+   * Microsoft Defender for DevOps (Defender for cloud -V2)
+   * RedHat OpenShift Workshop
+   * Azure Well-Architected Resiliency Gaps Remediation
+   * LLMOps 
+
+### 30 August 2024
+
+* Onboarded below 1 Hour duration workshops and enabled in new event request managment portal as per the request from Rick:
+  * Get started with Azure OpenAI Service
+  * Integrate Azure OpenAI into your app
+  * Code Suggestions with GitHub Copilot in VS Code
+
+### 15 August 2024
+
+* Added New Tracks to Catalog which contains **On-Demand Labs** based on Request. Below are the labs that can be onboarded/supported based on request:
+   * Enhancing Healthcare with Azure Open AI and AI Services
+   * AI-Powered Financial Analysis with Azure AI Services
+   * AutoML and Hyperparameter Tuning with Azure Machine Learning
+   * AIOps: Applying AI to IT Operations
+   * AI-driven Predictive Maintenance
+   * Model Drift Detection and Management
+ * Enabled Modernize Java Apps and Azure Integration PaaS lab in Microsoft Branded Catalog and also enabled in new event request management portal.
+ * Updated the titles of top 15 workshops in the Microsoft Branded Catalog.
+
+### 30 July 2024
 
   * Updated with Common **Azure Technology Focus** instead of Mainstream and Future Growth in Microsoft Branded Catalog.
   * Checked on the AI offerings missing labs content links in Microsoft Branded Catalog - 
