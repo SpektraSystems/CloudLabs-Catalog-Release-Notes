@@ -17,11 +17,7 @@
   * Microsoft Defender for DevOps (Defender for cloud -V2)
   * RedHat OpenShift Workshop
   * Azure Well-Architected Resiliency Gaps Remediation
-* 
-
-
-
-
+* Updated the lab content for Hybrid Identity with latest version name Hybrid Identity with Entra ID that has latest Microsoft Branding on Microsoft Entra ID.
 
 ### 03 September 2024
 
