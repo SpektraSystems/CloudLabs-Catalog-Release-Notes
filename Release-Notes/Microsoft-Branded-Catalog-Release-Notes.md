@@ -1,11 +1,27 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EXgtOl_4v55DoUohmvZ_GeQB2e7Nx1fNDEbxpleqnBJ3SQ?e=PLvrLm)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EdvPqe1_svtAvM0XdUMwU30BTZIFLxePp_BA8bXfzfvvWA?e=uWIj0v)
    - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EUGR6p0gO-FDqdhltMUbkFcBJ1t3NAo8zysqbgvoSHABDg?e=YhMGnK)
    - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZo7rZQ6atxAiQUrRs-hka0BW_PpXMmF-SwEqhhcris1Cw?e=vbuBYj)
 
 ---------------------
+### 30 September 2024
+
+* New Offerings added in Microsoft Branded Catalog:
+  * Advanced Workflow Automation with GitHub Actions
+  * Enterprise-Grade Chat Solutions with Azure Machine Learning and OpenAI
+  * Securing Repositories with GitHub Advanced Security
+  * Mitigating Vulnerabilities with GitHub Advanced Security and Azure DevOps
+  * Developing AI Applications with Azure AI Studio
+  * Microsoft Defender for DevOps (Defender for cloud -V2)
+  * RedHat OpenShift Workshop
+  * Azure Well-Architected Resiliency Gaps Remediation
+* 
+
+
+
+
 
 ### 03 September 2024
 
