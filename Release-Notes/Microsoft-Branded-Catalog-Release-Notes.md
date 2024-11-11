@@ -1,11 +1,18 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EesoBu3yuHRDmh1yx7p0rqQBZSQOxuZCai7OB7Neg3RheQ?e=P1Ib63)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EcFIamyYASRGsB7fG8D2wQwBlqV932_CWHBlGnAugMnecw?e=8Z5ibW)
    - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EUGR6p0gO-FDqdhltMUbkFcBJ1t3NAo8zysqbgvoSHABDg?e=YhMGnK)
    - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZo7rZQ6atxAiQUrRs-hka0BW_PpXMmF-SwEqhhcris1Cw?e=vbuBYj)
 
 ---------------------
+### 08 November 2024
+
+* Newly added Instructor-Led Tracks:
+  * Deploying and Running Java Application in Azure Container Apps
+  * SAP on Microsoft Cloud
+* Updated the consistent description, hands-on lab content, topics covered, and labguide preview for all the tracks.
+
 ### 30 September 2024
 
 * New Offerings added in Microsoft Branded Catalog:
