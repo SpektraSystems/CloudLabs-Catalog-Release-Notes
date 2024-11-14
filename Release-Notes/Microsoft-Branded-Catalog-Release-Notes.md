@@ -1,8 +1,8 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EdWEzgJXjhlCkS0PfNVtrLEBlt6U89q3ARlnCs_A-MdVBA?e=Xc40HL)
-   - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EUGR6p0gO-FDqdhltMUbkFcBJ1t3NAo8zysqbgvoSHABDg?e=YhMGnK)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EVe6l0roYmBJnVCYyNexi_oBQGdAiMZIbojYnxB3BDQgHw?e=0lv5DV)
+   - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQuzsoXBvR5BoKRBO2FdFDcBqUwYjd97MFzWTbXJPBUWpw?e=u8P549)
    - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZo7rZQ6atxAiQUrRs-hka0BW_PpXMmF-SwEqhhcris1Cw?e=vbuBYj)
 
 ---------------------
