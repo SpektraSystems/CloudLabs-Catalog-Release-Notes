@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EUoEK-H5-YBMrFY6uEgsFnMBhJjjbHi-P8E-KT7OGAHYgg?e=GjMKW2)
+### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQu7UlQUDqZNsLucoMFyWPwBgLcFnPQ_W_JZWHmb2bmg_w?e=TaoJWJ)
 
 ### 15 November 2024
 
