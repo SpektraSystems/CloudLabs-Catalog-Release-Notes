@@ -7,7 +7,9 @@
   * Newly Added Instructor-Led Tracks:
     * Copilot for Secuirty
     * Leveraging Copilot and AI for Infrastructure Management
-  * 
+    * Deploying and Running Java Application in Azure Container Apps
+  * Updated the consistent description, hands-on lab content, topics covered, and labguide preview for all the tracks.
+  * Reverted the tracks title to inital titles which was named while onboarding the labs.
 
 ### 30 September 2024
 
