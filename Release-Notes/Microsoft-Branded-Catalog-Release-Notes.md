@@ -1,9 +1,9 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EVe6l0roYmBJnVCYyNexi_oBQGdAiMZIbojYnxB3BDQgHw?e=0lv5DV)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/Eamuxcl5podNmzn17YalOW8Bk-6LQFR4ISabszfN2kG-4w?e=8mryw8)
    - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQuzsoXBvR5BoKRBO2FdFDcBqUwYjd97MFzWTbXJPBUWpw?e=u8P549)
-   - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZo7rZQ6atxAiQUrRs-hka0BW_PpXMmF-SwEqhhcris1Cw?e=vbuBYj)
+   - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EWNddfgKjJxHvQTSUZgz9_QBG-qG_mVSFnAM6KeUSzNyMw?e=qkInJo)
 
 ---------------------
 ### 08 November 2024
