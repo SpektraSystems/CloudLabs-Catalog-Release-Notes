@@ -1,6 +1,27 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQu7UlQUDqZNsLucoMFyWPwBgLcFnPQ_W_JZWHmb2bmg_w?e=TaoJWJ)
+### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/personal/keerthana_ganji_spektrasystems_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkeerthana%5Fganji%5Fspektrasystems%5Fcom%2FDocuments%2FOld%20files%2FCloudLabs%2FCourse%20Catalogue%5FWP%2FCloudLabs%5FCatalogue%20V100125%20WP%20MOC%20MS%20%2Epdf&parent=%2Fpersonal%2Fkeerthana%5Fganji%5Fspektrasystems%5Fcom%2FDocuments%2FOld%20files%2FCloudLabs%2FCourse%20Catalogue%5FWP&ct=1736521141206&or=Teams%2DHL&ga=1&LOF=1)
+
+### 10 January 2025
+
+  * Newly Added Instructor-Led Tracks:
+    * Building a Multimodal RAG Solution with Copilot Studio
+    * Build Creative App using Azure AI and Prompty
+
+      **Hackathon**
+    * Azure Innovators Hackathon: Elevating AI, Data, and RAG Mastery
+    * App Modernization - Hackathon
+  * Updated the new name used in MS for the following terms:
+
+    | OLD Name | New Name |
+    | --- | --- |
+    | Azure Cognitive Services | Azure AI Services |
+    | Azure OpenAI Studio | Azure OpenAI Service |
+    | Azure AI Studio  | Azure AI Foundry |
+    | Azure Form Recognizer | Document Intelligence |
+    | Azure Active Directory  | Microsoft Entra ID |
+
+    > **Note**: Updated throughout the catalog.
 
 ### 15 November 2024
 
