@@ -1,11 +1,12 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/Eamuxcl5podNmzn17YalOW8Bk-6LQFR4ISabszfN2kG-4w?e=8mryw8)
-   - [On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQuzsoXBvR5BoKRBO2FdFDcBqUwYjd97MFzWTbXJPBUWpw?e=LIrVzx)
-   - [New-Offerings-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EWNddfgKjJxHvQTSUZgz9_QBG-qG_mVSFnAM6KeUSzNyMw?e=qkInJo)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZjh2-dcU6hIt9Evrh70ZmsBYqu4siCIiHdgAxmasug8EQ?e=URRK81)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQLVMGIVUVBAvOieNZ48DN4Bklwosu9tuvKUonZJR6lUYA?e=nc8fA8)
 
 ---------------------
+
+
 ### 08 November 2024
 
 * Newly added Instructor-Led Tracks:
