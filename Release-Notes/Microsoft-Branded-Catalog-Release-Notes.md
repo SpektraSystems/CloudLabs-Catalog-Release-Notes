@@ -6,6 +6,18 @@
 
 ---------------------
 
+  * Updated the new name used in MS for the following terms:
+
+    | OLD Name | New Name |
+    | --- | --- |
+    | Azure Cognitive Services | Azure AI Services |
+    | Azure OpenAI Studio | Azure OpenAI Service |
+    | Azure AI Studio  | Azure AI Foundry |
+    | Azure Form Recognizer | Document Intelligence |
+    | Azure Active Directory  | Microsoft Entra ID |
+
+    > **Note**: Updated throughout the catalog.
+
 
 ### 08 November 2024
 
