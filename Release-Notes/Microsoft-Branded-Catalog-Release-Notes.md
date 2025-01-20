@@ -1,10 +1,17 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EZjh2-dcU6hIt9Evrh70ZmsBYqu4siCIiHdgAxmasug8EQ?e=URRK81)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EVY82gB2_5pJst6NJJC3szIBm1woZDBJGcHS3-tDNw9UPQ?e=R9KeE3)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQLVMGIVUVBAvOieNZ48DN4Bklwosu9tuvKUonZJR6lUYA?e=nc8fA8)
 
 ---------------------
+### 20 January 2025
+
+  * Added 3 - New Lunch and Learn labs:
+    *  Developing a Multimodal RAG Solution
+    *  Building and Evaluating Prompt Flows with Azure AI Foundry
+    *  Build Custom Copilot Application using Azure AI Foundry
+
 
 ### 10 January 2025
 
