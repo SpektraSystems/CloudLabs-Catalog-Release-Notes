@@ -8,12 +8,13 @@
     * Building a Multimodal RAG Solution with Copilot Studio
     * Build Creative App using Azure AI and Prompty
 
-      **Hackathon**
+  * Challenge Labs:
     * Azure Innovators Hackathon: Elevating AI, Data, and RAG Mastery
     * App Modernization - Hackathon
-  * Updated the new name used in MS for the following terms:
+ 
+  * Updated the latest Azure Resource Branding for the following terms:
 
-    | OLD Name | New Name |
+    | Old Name | New Name |
     | --- | --- |
     | Azure Cognitive Services | Azure AI Services |
     | Azure OpenAI Studio | Azure OpenAI Service |
