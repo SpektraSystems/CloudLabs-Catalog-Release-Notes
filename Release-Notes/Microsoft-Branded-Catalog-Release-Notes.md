@@ -17,7 +17,7 @@
 
   * Updated the Azure Resources branding with latest titles for the following terms:
 
-    | OLD Name | New Name |
+    | Old Name | New Name |
     | --- | --- |
     | Azure Cognitive Services | Azure AI Services |
     | Azure OpenAI Studio | Azure OpenAI Service |
