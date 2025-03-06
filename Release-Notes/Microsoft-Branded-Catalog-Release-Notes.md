@@ -1,8 +1,16 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/Ed_h5RcWGNxJklkz4nFa0AQBTQZVOhAuO4SvYf_193OXpA?e=hWuhh9)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EQLVMGIVUVBAvOieNZ48DN4Bklwosu9tuvKUonZJR6lUYA?e=nc8fA8)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/MSFT_Catalogue%20060325.pdf?csf=1&web=1&e=X4sWQh)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/MSFT_Catalogue%20New-Offerings%20060325.pdf?csf=1&web=1&e=EgNLb9)
+
+### 06 March 2025
+
+  * Newly added track in Microsoft Branded Catalog and ERM Portal:
+    * Fabric Database Mirroring
+      
+  * Newly added trcak in New Offerings Catalog:
+    * Microsoft Copilot for Security
 
 ---------------------
 ### 20 January 2025
