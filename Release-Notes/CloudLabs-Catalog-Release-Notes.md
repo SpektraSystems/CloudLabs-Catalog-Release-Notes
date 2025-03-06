@@ -1,7 +1,15 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/personal/keerthana_ganji_spektrasystems_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkeerthana%5Fganji%5Fspektrasystems%5Fcom%2FDocuments%2FOld%20files%2FCloudLabs%2FCourse%20Catalogue%5FWP%2FCloudLabs%5FCatalogue%20V100125%20WP%20MOC%20MS%20%2Epdf&parent=%2Fpersonal%2Fkeerthana%5Fganji%5Fspektrasystems%5Fcom%2FDocuments%2FOld%20files%2FCloudLabs%2FCourse%20Catalogue%5FWP&ct=1736521141206&or=Teams%2DHL&ga=1&LOF=1)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/CloudLabs_Catalogue%20V060325%20MOC%20MS%20.pdf?csf=1&web=1&e=n5f3B8)
 
+### 06 March 2025
+
+  * Newly added tracks in CloudLabs Common Catalog:
+    
+    * Fabric Database Mirroring
+    * Microsoft Copilot for Security
+
+-------------------------------
 ### 10 January 2025
 
   * Newly Added Instructor-Led Tracks:
@@ -33,6 +41,7 @@
   * Updated the consistent description, hands-on lab content, topics covered, and labguide preview for all the tracks.
   * Reverted the tracks title to inital titles which was named while onboarding the labs.
 
+------------------------
 ### 30 September 2024
 
   * Newly Added Instructor-Led Tracks:
@@ -40,6 +49,7 @@
     * Azure RedHat OpenShift Workshop
   * Updated the lab content for Hybrid Identity with latest version name Hybrid Identity with Entra ID that has latest Microsoft Branding on Microsoft Entra ID.
 
+------------------
 ### 15 August 2024
 
   * Newly Added Instructor-Led Tracks:
