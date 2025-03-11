@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/CloudLabs_Catalogue%20V060325%20MOC%20MS%20.pdf?csf=1&web=1&e=n5f3B8)
+### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EXNe0hTEFtBBpkHPCyt4uA8B-azrBEzGOxxVMgIDeEaj8Q?e=0vicOR)
 
 ### 06 March 2025
 
@@ -8,6 +8,18 @@
     
     * Fabric Database Mirroring
     * Microsoft Copilot for Security
+   
+  * Minor Updates:
+
+    1. Removed Lab Access Validity for Instructor Led Tracks.
+    2. Removed Defender V2 lab which not yet completely onboarded.
+    3. Duration update for Azure Arc enabled SQL Servers - Single Pane of Glass from 8 Hours to 4 Hours.
+    4. Remove the below workshops from All Catalogs and ERM Portal to avoid content duplication with AVD and Infra Migration: 
+       - MCW Implementing Azure Virtual Desktop in the Enterprise 
+       - Line of Business Application Migration 
+    5. Update the lab guide preview for the below workshops:
+       - Secure Windows Servers Azure Arc & Microsoft Defender
+       - Migrate Windows Server to Azure
 
 -------------------------------
 ### 10 January 2025
