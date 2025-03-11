@@ -1,8 +1,8 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/MSFT_Catalogue%20060325.pdf?csf=1&web=1&e=X4sWQh)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/February-Release/MSFT_Catalogue%20New-Offerings%20060325.pdf?csf=1&web=1&e=EgNLb9)
+   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EU0qceggaC5IqPt8XfSsDBsBm83N6NYl9Jv64Sg0qjqRzw?e=batN2h)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/ETZ02MkrxedOlhNLzL55rd0BZT5adXB-CXxwSaZPFEGhkg?e=KSORd8)
 
 ### 06 March 2025
 
@@ -11,6 +11,18 @@
       
   * Newly added trcak in New Offerings Catalog:
     * Microsoft Copilot for Security
+   
+* Minor Updates:
+
+  1. Removed Lab Access Validity for Instructor Led Tracks.
+  2. Removed Defender V2 lab which not yet completely onboarded.
+  3. Duration update for Azure Arc enabled SQL Servers - Single Pane of Glass from 8 Hours to 4 Hours.
+  4. Remove the below workshops from All Catalogs and ERM Portal to avoid content duplication with AVD and Infra Migration: 
+     - MCW Implementing Azure Virtual Desktop in the Enterprise 
+     - Line of Business Application Migration 
+  5. Update the lab guide preview for the below workshops:
+     - Secure Windows Servers Azure Arc & Microsoft Defender
+     - Migrate Windows Server to Azure
 
 ---------------------
 ### 20 January 2025
