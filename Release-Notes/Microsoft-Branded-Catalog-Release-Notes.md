@@ -1,15 +1,35 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EU0qceggaC5IqPt8XfSsDBsBm83N6NYl9Jv64Sg0qjqRzw?e=batN2h)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/ETZ02MkrxedOlhNLzL55rd0BZT5adXB-CXxwSaZPFEGhkg?e=KSORd8)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EX-3mGwJwP5ItGv8GWCdj0kB9C4BOBcPLbnqkDERHmNA1Q?e=Wu2F7x)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EfqYufbz-Q5AqLVhYNrK3hMByZ-E6x_UdYK-neoGFHjwvA?e=3K6pvI)
 
+
+### 10 April 2025
+
+  * Newly added track in Microsoft Branded Catalog and ERM Portal:
+
+    * Microsoft Azure AI Agents: Hands-on- Lab
+    * Build A Fabric Real-Time Intelligence Solution in a Day
+    * AI Developer - Azure AI Foundry and Semantic Kernel Fundamentals
+   
+  * Newly added track in New Offerings Catalog:
+
+    * Developing a Custom RAG App Using Azure AI Foundry
+    * Real-Time Intelligence in a Day
+   
+   * Minor Updates:
+
+     1. Content proof reading has been done based on lab content with respect to lab duration.
+     2. Updated all the labs getting started page with standard format.
+
+------------------------------------------------------
 ### 06 March 2025
 
   * Newly added track in Microsoft Branded Catalog and ERM Portal:
     * Fabric Database Mirroring
       
-  * Newly added trcak in New Offerings Catalog:
+  * Newly added track in New Offerings Catalog:
     * Microsoft Copilot for Security
    
 * Minor Updates:
