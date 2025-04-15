@@ -1,7 +1,23 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems-my.sharepoint.com/:b:/p/keerthana_ganji/EXNe0hTEFtBBpkHPCyt4uA8B-azrBEzGOxxVMgIDeEaj8Q?e=0vicOR)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EX-3mGwJwP5ItGv8GWCdj0kBZWtdVg-7vjEADTAAAHc5mw?e=GZXUm0)
 
+### 10 April 2025
+
+  * Newly added tracks in CloudLabs Common Catalog:
+
+    * Microsoft Azure AI Agents: Hands-on- Lab
+    * Developing a Custom RAG App Using Azure AI Foundry
+    * Build A Fabric Real-Time Intelligence Solution in a Day
+    * AI Developer - Azure AI Foundry and Semantic Kernel Fundamentals
+    * Real-Time Intelligence in a Day
+   
+   * Minor Updates:
+
+     1. Content proof reading has been done based on lab content with respect to lab duration.
+     2. Updated all the labs getting started page with standard format.
+
+--------------------------------
 ### 06 March 2025
 
   * Newly added tracks in CloudLabs Common Catalog:
