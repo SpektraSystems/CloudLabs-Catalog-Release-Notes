@@ -1,29 +1,30 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EX-3mGwJwP5ItGv8GWCdj0kB9C4BOBcPLbnqkDERHmNA1Q?e=Wu2F7x)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EfqYufbz-Q5AqLVhYNrK3hMByZ-E6x_UdYK-neoGFHjwvA?e=3K6pvI)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EbsW1hqhoA5Lo-oSGJtab34BbpF6AgeyLEDxwaqdc4JKcw?e=gUIUgF)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/ERrKGTedmf5LuHfrabL0UcwBzQBeUuR_dZGrzwmW9IXRXw?e=IFO67e)
 
 
 ### 12 May 2025
 
-  * Newly added track in Microsoft Branded Catalog and ERM Portal:
+  * Newly added tracks in Microsoft Branded Catalog and ERM Portal:
 
-    * Microsoft Azure AI Agents: Hands-on- Lab
-    * Build A Fabric Real-Time Intelligence Solution in a Day
-    * AI Developer - Azure AI Foundry and Semantic Kernel Fundamentals
+    * Azure Landing Zone
+    * AI Foundry and Semantic Kernel Fundamentals
+    * Fabric Real-Time Intelligence Solution in a Day
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Sales
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Marketing
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Human Resource
+    * Developing a Custom RAG App Using AI Foundry
+    * Hands-on with Azure AI Foundry and Agent frameworks
    
   * Newly added track in New Offerings Catalog:
 
-    * Developing a Custom RAG App Using Azure AI Foundry
-    * Real-Time Intelligence in a Day
+    * Azure Communication Services
    
    * Minor Updates:
 
-     1. Content proof reading has been done based on lab content with respect to lab duration.
-     2. Updated all the labs getting started page with standard format.
-
-
+     * Lab Title for **Microsoft Azure OpenHack** has been renamed to **Microsoft Azure AI OpenHack** as per the request.
 
 --------------------------------------------------------
 ### 10 April 2025
