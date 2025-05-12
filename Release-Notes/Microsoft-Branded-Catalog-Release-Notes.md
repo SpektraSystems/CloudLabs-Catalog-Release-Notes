@@ -5,6 +5,27 @@
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EfqYufbz-Q5AqLVhYNrK3hMByZ-E6x_UdYK-neoGFHjwvA?e=3K6pvI)
 
 
+### 12 May 2025
+
+  * Newly added track in Microsoft Branded Catalog and ERM Portal:
+
+    * Microsoft Azure AI Agents: Hands-on- Lab
+    * Build A Fabric Real-Time Intelligence Solution in a Day
+    * AI Developer - Azure AI Foundry and Semantic Kernel Fundamentals
+   
+  * Newly added track in New Offerings Catalog:
+
+    * Developing a Custom RAG App Using Azure AI Foundry
+    * Real-Time Intelligence in a Day
+   
+   * Minor Updates:
+
+     1. Content proof reading has been done based on lab content with respect to lab duration.
+     2. Updated all the labs getting started page with standard format.
+
+
+
+--------------------------------------------------------
 ### 10 April 2025
 
   * Newly added track in Microsoft Branded Catalog and ERM Portal:
