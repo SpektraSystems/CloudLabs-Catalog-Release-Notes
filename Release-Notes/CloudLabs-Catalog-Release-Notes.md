@@ -1,7 +1,22 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EVCk8hTB2ThPuSMsr-UA7_4B7Pj_3pGwZ3nh8UhVd4k_mQ?e=FQPIxV)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdCuWTNn4x1ClULOyQUiXcwBxc_uk6Bux6uevOzA4wFV5w?e=ePjaiQ)
 
+### 12 May 2025
+
+  * Newly added tracks in CloudLabs Common Catalog:
+
+    * Azure Landing Zone
+    * AI Foundry and Semantic Kernel Fundamentals
+    * Fabric Real-Time Intelligence Solution in a Day
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Sales
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Marketing
+    * Leverage Microsoft 365 Copilot and Copilot Studio for Human Resource
+    * Developing a Custom RAG App Using AI Foundry
+    * Azure Communication Services
+    * Hands-on with Azure AI Foundry and Agent frameworks
+
+--------------------------------
 ### 10 April 2025
 
   * Newly added tracks in CloudLabs Common Catalog:
