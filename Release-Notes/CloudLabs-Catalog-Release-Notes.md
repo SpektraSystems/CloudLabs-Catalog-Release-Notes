@@ -2,6 +2,23 @@
 
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdCuWTNn4x1ClULOyQUiXcwBxc_uk6Bux6uevOzA4wFV5w?e=ePjaiQ)
 
+### 18 June 2025
+
+  * Newly added tracks in CloudLabs Common Catalog:
+
+    * Effective Utilization of Copilot Studio
+    * GitHub & Agentic AI Hands-on Lab
+    * Fabric Copilot Hands-on Lab
+    * Implementing DevOps with GitHub and Azure DevOps
+   
+  * Minor Updates:
+
+    * Azure Stack HCI has been rebranded to Azure Local
+    * Updated Lab Content for DevOps with GitHub
+    * Removed SAP plus extend and innovate with Data and AI lab and added it in New Offerings Catalog that Can be enabled and supported upon request.
+
+
+-------------------------------
 ### 12 May 2025
 
   * Newly added tracks in CloudLabs Common Catalog:
