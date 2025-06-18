@@ -4,7 +4,25 @@
    - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EbsW1hqhoA5Lo-oSGJtab34BbpF6AgeyLEDxwaqdc4JKcw?e=gUIUgF)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/ERrKGTedmf5LuHfrabL0UcwBzQBeUuR_dZGrzwmW9IXRXw?e=IFO67e)
 
+### 18 June 2025
 
+ * Newly added tracks in Microsoft Branded Catalog:
+
+    * Effective Utilization of Copilot Studio
+    * Fabric Copilot Hands-on Lab
+    * Implementing DevOps with GitHub and Azure DevOps
+  
+ * Newly added track in New Offerings Catalog:
+
+    * GitHub & Agentic AI Hands-on Lab
+   
+  * Minor Updates:
+
+    * Azure Stack HCI has been rebranded to Azure Local
+    * Updated Lab Content for DevOps with GitHub
+    * Removed SAP plus extend and innovate with Data and AI lab and added it in New Offerings Catalog that Can be enabled and supported upon request
+
+-------------------------------------------------
 ### 12 May 2025
 
   * Newly added tracks in Microsoft Branded Catalog and ERM Portal:
