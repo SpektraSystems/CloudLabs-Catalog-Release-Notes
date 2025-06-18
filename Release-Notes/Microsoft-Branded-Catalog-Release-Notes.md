@@ -20,7 +20,7 @@
 
     * Azure Stack HCI has been rebranded to Azure Local
     * Updated Lab Content for DevOps with GitHub
-    * Removed SAP plus extend and innovate with Data and AI lab and added it in New Offerings Catalog that Can be enabled and supported upon request
+    * Removed SAP plus extend and innovate with Data and AI lab from Microsoft Catalog and added it in New Offerings Catalog that Can be enabled and supported upon request
 
 -------------------------------------------------
 ### 12 May 2025
