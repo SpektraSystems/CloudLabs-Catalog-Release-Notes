@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdCuWTNn4x1ClULOyQUiXcwBxc_uk6Bux6uevOzA4wFV5w?e=ePjaiQ)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EY1_YuqFg7pPgiS7Qc2vNw0B1XrFF5cYwx7vxFlX3kEuCA?e=GupLcF)
 
 ### 18 June 2025
 
