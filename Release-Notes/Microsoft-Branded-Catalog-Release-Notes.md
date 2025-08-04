@@ -1,21 +1,18 @@
 # Release Notes
 
+## Latest Catalog URLs:
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/July-Release/MSFT_Catalogue%20010825.pdf?csf=1&web=1&e=9XEEc8)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EYqHMQ0roDZGjr1N0x9NPKoBez752o1UwjBaFMTjTSVjiQ?e=w2J57e)
+
 ### 05 August 2025
 
-## Latest Catalog URL:
+   * Major Updates - Catalog Refreshed with respect to FY26. 
 
- [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/July-Release/MSFT_Catalogue%20010825.pdf?csf=1&web=1&e=9XEEc8)
-
-   * No new tracks have been introduced in this release. Minor updates have been made to the lab guide for the Azure-Red Hat OpenShift Workshop.
-
-   * The catalogue has been updated in alignment with the new FY 2026 guidelines. Lab descriptions and intended audience details have been revamped for clarity and consistency.
-   
-   * These changes have also been reflected in the ERM portal.
-
-
-## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EbTbX3erdd5AuLgABVNk6Z0BlKkO_x3nfEipKDTNRqZuTw?e=Wfhe4r)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EYqHMQ0roDZGjr1N0x9NPKoBez752o1UwjBaFMTjTSVjiQ?e=w2J57e)
+     * No new tracks have been introduced in this release.
+     * Minor updates have been made to the lab content for the Azure-Red Hat OpenShift Workshop.
+     * Lab descriptions and intended audience details have been revamped for clarity and consistency.
+     * Azure Services and Products are updated with latest branding names.
+     * The same updates will be reflecting Event Request Management portal.
 
 ### 18 June 2025
 
