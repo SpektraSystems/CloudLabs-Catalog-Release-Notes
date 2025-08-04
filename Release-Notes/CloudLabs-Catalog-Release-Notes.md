@@ -4,23 +4,20 @@
 
 ### 05 August 2025
 
- * No new tracks have been introduced in this release. Minor updates have been made to the lab guide for the Azure-Red Hat OpenShift Workshop.
+ * Major Updates - Catalog Refreshed with respect to FY26. 
 
- * The catalogue has been updated in alignment with the new FY 2026 guidelines. Lab descriptions and intended audience details have been revamped for clarity and consistency.
-   
- * Solution Play Title Updates:
+  * No new tracks have been introduced in this release. Minor updates have been made to the lab content for the Azure-Red Hat OpenShift Workshop.
+  * The catalogue has been updated in alignment with the new FY26 Microsoft guidelines.
+  * Lab descriptions and intended audience details have been revamped for clarity and consistency.
+  * Azure Services and Products are updated with latest branding names.  
+  * Solution Play Name Updates:
 
-    - **Previous Title**: Migrate and Secure Windows Server SQL and Linux Estate,
-      **Updated Title**: Migrate and Modernize your Estate
-
-    - **Previous Title**: Innovate with Azure AI Platform,
-      **Updated Title**: Innovate with Azure AI Apps and Agents
-
-    - **Previous Title**: Unify your Intelligent Data and Analytics Platform,
-      **Updated Title**: Unify your Data Platform
-
-    - **Previous Title**: Innovate with Low-code AI and Agents,
-      **Updated Title**: Innovate with AI in Low Code
+    | **FY25 Solution Play Name** | **FY26 Solution Play Name** |
+    | --------------------------- | --------------------------- |
+    | Migrate and Secure Windows Server SQL and Linux Estate | Migrate and Modernize your Estate |
+    | Innovate with Azure AI Platform | Innovate with Azure AI Apps and Agents |
+    | Innovate with Low-code AI and Agents | Innovate with AI in Low Code |
+    | Unify your Intelligent Data and Analytics Platform | Unify your Data Platform |
 
 ### 18 June 2025
 
