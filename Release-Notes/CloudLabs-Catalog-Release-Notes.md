@@ -1,6 +1,28 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EY1_YuqFg7pPgiS7Qc2vNw0B1XrFF5cYwx7vxFlX3kEuCA?e=GupLcF)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/July-Release/CloudLabs_Catalogue%20V010825%20MOC%20MS%20.pdf?CT=1754303592945&OR=ItemsView)
+
+### 05 August 2025
+
+ * No new tracks have been introduced in this release. Minor updates have been made to the lab guide for the Azure-Red Hat OpenShift Workshop.
+
+ * The catalogue has been updated in alignment with the new FY 2026 guidelines. Lab descriptions and intended audience details have been revamped for clarity and consistency.
+   
+ * These changes have also been reflected in the ERM portal.
+
+ * Solution Play Title Updates:
+
+    - **Previous Title**: Migrate and Secure Windows Server SQL and Linux Estate,
+      **Updated Title**: Migrate and Modernize your Estate
+
+    - **Previous Title**: Innovate with Azure AI Platform,
+      **Updated Title**: Innovate with Azure AI Apps and Agents
+
+    - **Previous Title**: Unify your Intelligent Data and Analytics Platform,
+      **Updated Title**: Unify your Data Platform
+
+    - **Previous Title**: Innovate with Low-code AI and Agents,
+      **Updated Title**: Innovate with AI in Low Code
 
 ### 18 June 2025
 
