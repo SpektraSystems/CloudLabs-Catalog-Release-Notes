@@ -8,8 +8,6 @@
 
  * The catalogue has been updated in alignment with the new FY 2026 guidelines. Lab descriptions and intended audience details have been revamped for clarity and consistency.
    
- * These changes have also been reflected in the ERM portal.
-
  * Solution Play Title Updates:
 
     - **Previous Title**: Migrate and Secure Windows Server SQL and Linux Estate,
