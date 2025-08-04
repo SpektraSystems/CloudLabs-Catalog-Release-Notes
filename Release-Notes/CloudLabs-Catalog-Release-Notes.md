@@ -17,7 +17,7 @@
      | --------------------------- | --------------------------- |
      | Migrate and Secure Windows Server SQL and Linux Estate | Migrate and Modernize your Estate |
      | Innovate with Azure AI Platform | Innovate with Azure AI Apps and Agents |
-     | Innovate with Low-code AI and Agents | Innovate with AI in Low Code |
+     | Innovate with AI in Low Code |  Innovate with Low-code AI and Agents |
      | Unify your Intelligent Data and Analytics Platform | Unify your Data Platform |
 
 ### 18 June 2025
