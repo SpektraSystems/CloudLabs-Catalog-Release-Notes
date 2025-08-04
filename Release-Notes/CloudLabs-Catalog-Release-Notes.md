@@ -6,11 +6,12 @@
 
  * Major Updates - Catalog Refreshed with respect to FY26. 
 
-  * No new tracks have been introduced in this release. Minor updates have been made to the lab content for the Azure-Red Hat OpenShift Workshop.
-  * The catalogue has been updated in alignment with the new FY26 Microsoft guidelines.
-  * Lab descriptions and intended audience details have been revamped for clarity and consistency.
-  * Azure Services and Products are updated with latest branding names.  
-  * Solution Play Name Updates:
+   * No new tracks have been introduced in this release.
+   * Minor updates have been made to the lab content for the Azure-Red Hat OpenShift Workshop.
+   * The catalogue has been updated in alignment with the new FY26 Microsoft guidelines.
+   * Lab descriptions and intended audience details have been revamped for clarity and consistency.
+   * Azure Services and Products are updated with latest branding names.  
+   * Solution Play Name Updates wrt FY26:
 
     | **FY25 Solution Play Name** | **FY26 Solution Play Name** |
     | --------------------------- | --------------------------- |
