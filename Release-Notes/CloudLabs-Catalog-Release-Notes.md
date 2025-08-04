@@ -13,12 +13,12 @@
    * Azure Services and Products are updated with latest branding names.  
    * Solution Play Name Updates wrt FY26:
 
-    | **FY25 Solution Play Name** | **FY26 Solution Play Name** |
-    | --------------------------- | --------------------------- |
-    | Migrate and Secure Windows Server SQL and Linux Estate | Migrate and Modernize your Estate |
-    | Innovate with Azure AI Platform | Innovate with Azure AI Apps and Agents |
-    | Innovate with Low-code AI and Agents | Innovate with AI in Low Code |
-    | Unify your Intelligent Data and Analytics Platform | Unify your Data Platform |
+     | **FY25 Solution Play Name** | **FY26 Solution Play Name** |
+     | --------------------------- | --------------------------- |
+     | Migrate and Secure Windows Server SQL and Linux Estate | Migrate and Modernize your Estate |
+     | Innovate with Azure AI Platform | Innovate with Azure AI Apps and Agents |
+     | Innovate with Low-code AI and Agents | Innovate with AI in Low Code |
+     | Unify your Intelligent Data and Analytics Platform | Unify your Data Platform |
 
 ### 18 June 2025
 
