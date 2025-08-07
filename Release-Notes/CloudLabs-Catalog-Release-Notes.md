@@ -11,14 +11,22 @@
    * The catalogue has been updated in alignment with the new FY26 Microsoft guidelines.
    * Lab descriptions and intended audience details have been revamped for clarity and consistency.
    * Azure Services and Products are updated with latest branding names.  
-   * Solution Play Name Updates with respect to FY26:
+   * FY26 Solution Play	Key FY26 Updates
 
-     | **FY25 Solution Play Name** | **FY26 Solution Play Name** |
-     | --------------------------- | --------------------------- |
-     | Migrate and Secure Windows Server SQL and Linux Estate | Migrate and Modernize your Estate |
-     | Innovate with Azure AI Platform | Innovate with Azure AI Apps and Agents |
-     | Innovate with AI in Low Code |  Innovate with Low-code AI and Agents |
-     | Unify your Intelligent Data and Analytics Platform | Unify your Data Platform |
+     - **Migrate and Modernize Your Estate**	Merged plays:
+       - Migrate and Secure Windows Server, SQL and Linux Estate
+       - Migrate SAP
+       - Innovate with HPC
+       - Modernizing Mainframe
+       - Build and Modernize AI Apps
+
+     - **Innovate with Azure AI Apps and Agents**	Merged plays:
+       - Innovate with Azure AI Platform
+       - Advance Sustainability with an Intelligent Data Platform
+       - Accelerate Developer Productivity
+
+     - **Unify Your Data Platform**	Expanded from:
+       - Unify Your Intelligent Data and Analytics Platform
 
 ### 18 June 2025
 
