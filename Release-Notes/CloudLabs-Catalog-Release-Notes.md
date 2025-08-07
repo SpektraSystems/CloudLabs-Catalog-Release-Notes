@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/July-Release/CloudLabs_Catalogue%20V010825%20MOC%20MS%20.pdf?CT=1754303592945&OR=ItemsView)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EQrgIgu60bNMuAnQKDJmEX8BCp31GLrwoiv39Tm7dCpkzw?e=GYWP8d)
 
 ### 05 August 2025
 
