@@ -8,6 +8,7 @@
   * Newly added Instructor-Led tracks:
     * Build Agentic AI with Semantic Kernel and GraphRAG on PostgreSQL
     * Data Security with Microsoft Purview
+    * Enhancing Healthcare with Azure AI Service
    
   * Minor Updates:
     * Retierd - SAP on Microsoft Cloud Workshop - Removed lab from Microsoft Branded Catalog and the ERM Portal.
