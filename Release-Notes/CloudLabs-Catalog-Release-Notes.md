@@ -5,7 +5,15 @@
 
 ### 15 September 2025
 
-
+  * Newly added Instructor-Led tracks:
+    * Build Agentic AI with Semantic Kernel and GraphRAG on PostgreSQL
+    * Data Security with Microsoft Purview
+   
+  * Minor Updates:
+    * Retierd - SAP on Microsoft Cloud Workshop - Removed lab from Microsoft Branded Catalog and the ERM Portal.
+    * Updated the lab titles for Microsoft Defnder for Cloud V1 & V2:
+      * Version -1 > Title: **Microsoft Defender for Cloud - Security Posture Management**
+      * Version - 2 >Title: **Microsoft Defender for Cloud - AI Workload Protection**
 
 --------------------------------------------------
 ### 05 August 2025
