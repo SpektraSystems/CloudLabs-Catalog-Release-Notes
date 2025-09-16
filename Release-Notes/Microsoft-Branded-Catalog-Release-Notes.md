@@ -1,9 +1,25 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/r/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/July-Release/MSFT_Catalogue%20010825.pdf?csf=1&web=1&e=9XEEc8)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EYqHMQ0roDZGjr1N0x9NPKoBez752o1UwjBaFMTjTSVjiQ?e=w2J57e)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EX5j5WQUbHxFn1u4fRA82yUBrsu080wl2GzDQyOGnqwFAg?e=YfgXez)
+   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
+### 15 September 2025
+
+  * Newly added tracks in Microsoft Branded Catalog:
+
+    * Data Security with Microsoft Purview
+    * Microsoft Copilot for Security
+    * Enhancing Healthcare with Azure AI Service
+   
+  * Minor Updates:
+
+    * Retierd - SAP on Microsoft Cloud Workshop - Removed lab from Microsoft Branded Catalog and the ERM Portal.
+    * Updated the lab titles for Microsoft Defnder for Cloud V1 & V2:
+      * Version -1 > Title: Microsoft Defender for Cloud - Security Posture Management
+      * Version - 2 >Title: Microsoft Defender for Cloud - AI Workload Protection
+
+---------------------------------------------------------
 ### 05 August 2025
 
    * Major Updates - Catalog Refreshed with respect to FY26. 
@@ -14,6 +30,7 @@
      * Azure Services and Products are updated with latest branding names.
      * The same updates will be reflecting Event Request Management portal.
 
+-----------------------------------------------------
 ### 18 June 2025
 
  * Newly added tracks in Microsoft Branded Catalog:
