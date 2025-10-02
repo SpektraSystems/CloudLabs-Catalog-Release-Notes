@@ -4,6 +4,14 @@
    - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EX5j5WQUbHxFn1u4fRA82yUBrsu080wl2GzDQyOGnqwFAg?e=YfgXez)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
+### 02 October 2025
+
+  * Newly added tracks in Microsoft Branded Catalog:
+
+      * AI-assisted development with GitHub Copilot
+      * GitHub Enterprise for Admins
+      * Snowflake Integration with Microsoft Fabric: Iceberg and Fabric Data Agent
+
 ### 15 September 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
