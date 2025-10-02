@@ -2,7 +2,14 @@
 
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EfGcgxzM_vJKjWJh6sVyH4ABv38ySLqVoYDkIJ3jMr0mNA?e=6aUKZm)
 
+### 02 October 2025
 
+  * Newly added Instructor-Led tracks:
+    * AI-assisted development with GitHub Copilot
+    * GitHub Enterprise for Admins
+    * Snowflake Integration with Microsoft Fabric: Iceberg and Fabric Data Agent
+    
+--------------------------------------------------
 ### 15 September 2025
 
   * Newly added Instructor-Led tracks:
