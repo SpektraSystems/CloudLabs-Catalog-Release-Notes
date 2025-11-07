@@ -1,5 +1,22 @@
 # Release Notes
 
+* Newly added Instructor-Led tracks:
+    * AI Agents using Microsoft Agent Framework
+    * M365 Copilot Immersion Hands-on Lab
+    * Microsoft Copilot Studio Hackathon
+
+* Newly added Self-Paced track:
+    * M365 Copilot Immersion Hands-on Lab
+      
+ * Newly added Applied Skill Courses:
+    * AI-3018 : Copilot Foundations
+    * AI-3025 : Work smarter with AI
+    * MS-4018 : Draft, analyze, and present with Microsoft 365 Copilot
+    * MS-4008 : M365 Copilot Interactive Experience for Executives
+    * MS-4021 : Copilot Immersion Experience
+    * MS-4023 : Explore Microsoft 365 Copilot Chat
+
+
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/ESGH-LQIRAlNpWhCCOLup9EBdOYMS6EBh-0ICQRBzDReaw?e=oZBv62)
 
 ### 10 October 2025
