@@ -12,10 +12,6 @@
     * M365 Copilot Immersion Hands-on Lab
     * Microsoft Copilot Studio Hackathon
 
-## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EQfC7auOR_xAg1bpNs4xdjQBEJPDJGlpkUPiUfSlQlernA?e=hxo51R)
-   - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
-
 ### 10 October 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
