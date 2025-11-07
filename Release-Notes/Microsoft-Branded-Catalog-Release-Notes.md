@@ -4,21 +4,13 @@
    - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EQfC7auOR_xAg1bpNs4xdjQBEJPDJGlpkUPiUfSlQlernA?e=hxo51R)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
-### 7 November 2025
+### 08 November 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
 
     * AI Agents using Microsoft Agent Framework
-    * M365 Copilot Immersion Hands-on Lab
-    * Microsoft Copilot Studio Hackathon
-
-### 10 October 2025
-
-  * Newly added tracks in Microsoft Branded Catalog:
-
-      * AI Agents using Microsoft Agent Framework
-      * Microsoft Azure Serverless OpenHack
-      * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
+    * Microsoft Azure Serverless OpenHack
+    * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
    
 ### 15 September 2025
 
