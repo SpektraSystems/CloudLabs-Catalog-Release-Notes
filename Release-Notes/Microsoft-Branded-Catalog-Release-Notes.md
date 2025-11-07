@@ -4,7 +4,7 @@
    - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EQfC7auOR_xAg1bpNs4xdjQBEJPDJGlpkUPiUfSlQlernA?e=hxo51R)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
-### 7 November October 2025
+### 7 November 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
 
