@@ -2,9 +2,14 @@
 
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/ESGH-LQIRAlNpWhCCOLup9EBdOYMS6EBh-0ICQRBzDReaw?e=oZBv62)
 
+### 08 November 2025
+
 * Newly added Instructor-Led tracks:
     * AI Agents using Microsoft Agent Framework
     * M365 Copilot Immersion Hands-on Lab
+    * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
+
+* Newly added Self-Paced track:
     * Microsoft Copilot Studio Hackathon
 
 * Newly added Self-Paced track:
@@ -18,7 +23,7 @@
     * MS-4021 : Copilot Immersion Experience
     * MS-4023 : Explore Microsoft 365 Copilot Chat
 
-
+---------------------------------------------
 ### 10 October 2025
 
   * Newly added Instructor-Led tracks:
