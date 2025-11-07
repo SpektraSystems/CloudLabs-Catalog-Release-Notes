@@ -8,13 +8,10 @@
 
   * Newly added tracks in Microsoft Branded Catalog:
 
-      * AI-assisted development with GitHub Copilot
-      * GitHub Enterprise for Admins
-      * Snowflake Integration with Microsoft Fabric: Iceberg and Fabric Data Agent
+      * AI Agents using Microsoft Agent Framework
+      * Microsoft Azure Serverless OpenHack
+      * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
    
-   * Minor Updates:
-     * Lab content has been updated for **Azure Landing Zone**
-
 ### 15 September 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
