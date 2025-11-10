@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/ESGH-LQIRAlNpWhCCOLup9EBdOYMS6EBh-0ICQRBzDReaw?e=oZBv62)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/Forms/AllItems.aspx?viewid=362f4136%2Da2a4%2D413e%2Dad7e%2D741d3e349183&ct=1762757194449&or=Teams%2DHL&ga=1&LOF=1&ovuser=6d7e0652%2Db03d%2D4ed2%2Dbf86%2Df1999cecde17%2CShahana%2EKattil%40spektrasystems%2Ecom&OR=Teams%2DHL&CT=1762757215913&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTEwMTYxNjUwOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2FOctober%20Release%2FCloudLabs%5FCatalogue%20V061125%20MOC%20MS%20%2Epdf&parent=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2FOctober%20Release)
 
 ### 08 November 2025
 
