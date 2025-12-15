@@ -5,11 +5,32 @@
 ### 08 November 2025
 
 * Newly added Instructor-Led tracks:
+    * Azure AI Gateway: API Management for Intelligent Services
+ 
+* Major Update:
+    * Post Microsoft Ignite November 2025, Microsoft have rebranded the Azure AI Foundry to **Microsoft Foundry**.
+    * Lab content, flow, and UI has been updated with latest UI and branding.
+    * Below Instructor-Led tracks titles are updated:
+         * AI Developer - Microsoft Foundry and Semantic Kernel Fundamentals
+         * Developing a Custom RAG App Using Microsoft Foundry
+         * Developing AI Applications with Microsoft Foundry
+         * Getting Started with Microsoft, Agents and MCP framework
+         * Hands-on with Microsoft Foundry and Agent Frameworks
+         * Lunch and Learn: Build Custom Copilot Application using Microsoft Foundry
+         * Lunch and Learn: Building and Evaluating Prompt Flows with Microsoft Foundry
+     
+* Existing Lab Update:
+     * Hybrid Identity with Entra ID
+          * Lab Content related to MFA and Conditional access has been removed. As MFA and Conditional Access are now enforced by default, we had to reduce some of the existing lab content that depended on the previous configuration.
+          * Lab duration changes from 8 hours to 4 hours.
+               
+---------------------------------------------
+### 08 November 2025
+
+* Newly added Instructor-Led tracks:
     * AI Agents using Microsoft Agent Framework
     * M365 Copilot Immersion Hands-on Lab
     * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
-
-* Newly added Self-Paced track:
     * Microsoft Copilot Studio Hackathon
 
 * Newly added Self-Paced track:
@@ -22,6 +43,8 @@
     * MS-4008 : M365 Copilot Interactive Experience for Executives
     * MS-4021 : Copilot Immersion Experience
     * MS-4023 : Explore Microsoft 365 Copilot Chat
+  
+ * Removed **Azure HPC On-Demand Platform** Lab from the Catalog.
 
 ---------------------------------------------
 ### 10 October 2025
