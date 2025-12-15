@@ -4,14 +4,39 @@
    - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/Forms/AllItems.aspx?viewid=362f4136%2Da2a4%2D413e%2Dad7e%2D741d3e349183&ct=1762757194449&or=Teams%2DHL&ga=1&LOF=1&ovuser=6d7e0652%2Db03d%2D4ed2%2Dbf86%2Df1999cecde17%2CShahana%2EKattil%40spektrasystems%2Ecom&OR=Teams%2DHL&CT=1762757215913&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTEwMTYxNjUwOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2FOctober%20Release%2FMSFT%5FCatalogue%20061125%2Epdf&parent=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2FOctober%20Release)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
+### 15 December 2025
+
+* Newly added Instructor-Led tracks:
+    * Azure AI Gateway: API Management for Intelligent Services
+ 
+* Major Update:
+    * Post Microsoft Ignite November 2025, Microsoft have rebranded the Azure AI Foundry to **Microsoft Foundry**.
+    * Lab content, flow, and UI has been updated with latest UI and branding.
+    * Below Instructor-Led tracks titles are updated:
+         * AI Developer - Microsoft Foundry and Semantic Kernel Fundamentals
+         * Developing a Custom RAG App Using Microsoft Foundry
+         * Developing AI Applications with Microsoft Foundry
+         * Getting Started with Microsoft, Agents and MCP framework
+         * Hands-on with Microsoft Foundry and Agent Frameworks
+         * Lunch and Learn: Build Custom Copilot Application using Microsoft Foundry
+         * Lunch and Learn: Building and Evaluating Prompt Flows with Microsoft Foundry
+     
+* Existing Lab Update:
+     * Hybrid Identity with Entra ID
+          * Lab Content related to MFA and Conditional access has been removed. As MFA and Conditional Access are now enforced by default, we had to reduce some of the existing lab content that depended on the previous configuration.
+          * Lab duration changes from 8 hours to 4 hours.
+
+--------------------------------------------------------------
 ### 08 November 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
-
     * AI Agents using Microsoft Agent Framework
     * Microsoft Azure Serverless OpenHack
     * GitHub Copilot Innovation Workshop - Mastering GitHub Copilot Across the SDLC
    
+  * Removed **Azure HPC On-Demand Platform** Lab from the Catalog.
+   
+----------------------------------------------------------
 ### 15 September 2025
 
   * Newly added tracks in Microsoft Branded Catalog:
