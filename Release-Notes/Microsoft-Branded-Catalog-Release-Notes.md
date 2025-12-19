@@ -1,7 +1,7 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQDpEZwpWmRNSbwo__OVfdrpAU0CzGPeZJzqu6Qwy-DN9LU?e=rmCgza)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQDpEZwpWmRNSbwo__OVfdrpAU0CzGPeZJzqu6Qwy-DN9LU?e=8a9OJp)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
 ### 15 December 2025
