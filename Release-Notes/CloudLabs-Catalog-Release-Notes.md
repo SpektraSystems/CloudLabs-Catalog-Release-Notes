@@ -10,13 +10,22 @@
      * Lunch and Learn: Accessibility with GitHub Copilot
      * Chat with your data Fabric
  
- * Taken down some of the retired MOC and Applied Skill Courses:
-      *  MOC Courses
+ * Taken down some of the retired Tracks and Courses:
+      * Instructor-Led Tracks:
+        - Azure VM Solutions for HPC Workloads
+        - Azure Synapse Analytics
+        - Modernize Java Apps
+        - Line of Business Application Migration
+        - Real-Time Analytics With Synapse
+           
+           > **Note**: Azure Data Explorer Pool and Azure Spring Apps resources got retired. HPC and LOB labs content are out-dated.
+         
+      * MOC Courses:
          - AZ-720: Troubleshooting Microsoft Azure Connectivity 
          - SC-400T00-AC: Microsoft Information Protection Administrator 
          - DP-203: Data Engineering on Microsoft Azure
 
-      * Applied Skills Courses
+      * Applied Skills Courses:
         - AI-050T00: Develop Generative AI Solutions with Azure OpenAI Service
         - AI-3002: Create Document Intelligence Solutions with Azure AI Document Intelligence
         - AI-3003: Build a Natural Language Processing Solution with Azure AI Services
