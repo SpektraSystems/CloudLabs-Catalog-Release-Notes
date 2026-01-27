@@ -1,7 +1,31 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQBL1vw8JB14RKF6-m-mnR8wAaOnn2lV1nZxcvM7oayI8YY?e=kzgxx5)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQAAhWHbC-98S4h_cfX8HAuDAXnjOx0qCnhM1DjUklo0nnA?e=onWdah)
 
+
+### 27 January 2026
+
+* Newly added Instructor-Led tracks:
+     * GitHub Copilot Java App Modernization
+     * Lunch and Learn: Accessibility with GitHub Copilot
+     * Chat with your data Fabric
+ 
+ * Taken down some of the retired MOC and Applied Skill Courses:
+      *  MOC Courses
+         - AZ-720: Troubleshooting Microsoft Azure Connectivity 
+         - SC-400T00-AC: Microsoft Information Protection Administrator 
+         - DP-203: Data Engineering on Microsoft Azure
+
+      * Applied Skills Courses
+        - AI-050T00: Develop Generative AI Solutions with Azure OpenAI Service
+        - AI-3002: Create Document Intelligence Solutions with Azure AI Document Intelligence
+        - AI-3003: Build a Natural Language Processing Solution with Azure AI Services
+        - AZ-1001: Deploy and Manage Containers using Azure Kubernetes Service 
+        - DP-3007: Train and Deploy a Machine Learning Model with Azure Machine Learning 
+        - MS-4001: Build Collaborative Apps for Microsoft Teams 
+        - SC-5001: Configure SIEM Security Operations using Microsoft Sentinel 
+
+----------------------------------------
 ### 15 December 2025
 
 * Newly added Instructor-Led tracks:
