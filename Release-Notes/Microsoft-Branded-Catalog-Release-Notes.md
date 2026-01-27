@@ -1,9 +1,26 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQDpEZwpWmRNSbwo__OVfdrpAU0CzGPeZJzqu6Qwy-DN9LU?e=8a9OJp)
+   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQCnlLU5POQ9RbV2P8Zhm7QsAbTI2LgNbvwaPz2CkaffI0Q?e=bO4sOJ)
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
+### 27 January 2026
+
+* Newly added Instructor-Led tracks:
+     * GitHub Copilot Java App Modernization
+     * Lunch and Learn: Accessibility with GitHub Copilot
+     * Chat with your data Fabric
+ 
+ * Taken down some of the retired Instructor-Led Tracks:
+   * Azure VM Solutions for HPC Workloads
+   * Azure Synapse Analytics
+   * Modernize Java Apps
+   * Line of Business Application Migration
+   * Real-Time Analytics With Synapse
+  
+> **Note**: Azure Data Explorer Pool and Azure Spring Apps resources got retired. HPC and LOB labs content are out-dated.
+
+----------------------------------------------------------------
 ### 15 December 2025
 
 * Newly added Instructor-Led tracks:
