@@ -109,7 +109,7 @@ Use only from the below list:
 | Azure Virtual Network Gateway | Azure Virtual WAN | Azure VPN Gateway | Bing Search API |
 | Content Safety | Data Migration Assistant | Dataverse | DNS Forwarding Ruleset |
 | Document Intelligence | Face API | GitHub (GitOps) | GitHub Actions |
-| GitHub Advanced Security | Hyper-V | Microsoft 365 Applications (Teams, Outlook, Word, Excel, PowerPoint) | Microsoft 365 E5 |
+| GitHub Advanced Security | Hyper-V | Microsoft 365 Applications | Microsoft 365 E5 |
 | Microsoft Copilot for Security | Microsoft Defender for Cloud - CSPM | Microsoft Defender for Endpoint | Microsoft Defender for Identity |
 | Microsoft Defender for Office 365 | Microsoft Entra ID P2 | Microsoft Graph | Microsoft Intune |
 | Microsoft Power Automate | Microsoft Sustainability Manager | Microsoft Teams | OneLake |
