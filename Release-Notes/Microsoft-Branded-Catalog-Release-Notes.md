@@ -1,7 +1,7 @@
 # Release Notes
 
 ## Latest Catalog URLs:
-   - [Microsoft-Branded-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQCnlLU5POQ9RbV2P8Zhm7QsAbTI2LgNbvwaPz2CkaffI0Q?e=bO4sOJ)
+   - Microsoft Branded Catalog - To be exported from ERM Portal directly.
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
 ### 27 January 2026
