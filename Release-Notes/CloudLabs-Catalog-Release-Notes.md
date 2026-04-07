@@ -1,8 +1,53 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQBgdKdRg5i9QJcnjMnUGVaTAfBsqgOCQGKxIceouQ_m8vs?e=CwbF6t)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQBV_dnbUZcUQ5QpxfhWvY6AAe3e6jc2-Akoaz35zwecxUA?e=XnHSaQ)
 
+### 06 April 2026
 
+* Newly added Instructor-Led tracks:
+  - Agentic AI in Action: Copilot Studio + Azure
+  - Building and Operationalizing AI Agents with Microsoft Foundry and Agent frameworks
+  - Azure HPC with CycleCloud
+  - Build and Enhance a Safe Travels Agent with Multi-Agent Orchestration
+  - Leave Management System with Microsoft Copilot Studio
+  - GitHub Copilot Impact for Managers and Pre-Sales Teams
+  - Accelerating Development with GitHub Copilot & Copilot Chat
+  - Hands on Lab: GitHub Copilot - Advanced Usage throughout the Software Development Lifecycle
+  - Migrate to AKS with GitHub Copilot for App Modernization
+  - Modern SecOps with Unified Platform
+  - GitHub Copilot - Zero to Agents in 2 Hours
+  - Building Security Copilot Agents Using Microsoft Sentinel Data
+  - Intelligent Observability for Microsoft Azure: Hands-On Workshop
+  - Building and Managing AI Agents using Azure Agents Control Plane
+
+* Newly added MOC Courses:
+  - DP-080: Querying Data with Microsoft Transact-SQL
+  - MS-721T00-Collaboration-Communications-Systems-Engineer
+  - DP-700T00-A: Implement data engineering solutions using Microsoft Fabric
+  - SC-401T00-A: Information Security Administrator
+ 
+ * Taken down some of the retired Tracks and Courses:
+      * Instructor-Led Tracks:
+        - Citrix To AVD Migration
+        - Building a resilient IaaS architecture
+        - Expanding Azure Virtual WAN To Support Your Global Network
+        - Nerdio Manager For MSP
+        - Azure Well-Architected Resiliency Gaps Remediation
+        - Empower Knowledge Workers Using Azure OpenAI With MS Teams And Azure Bot Service
+        - Call Center Data Analysis Using Azure AI Services And Azure OpenAI
+        - Cloud Native Applications
+        - Create And Run Data Pipeline With Data Factory
+        - Advanced Azure Networking With Azure Virtual WAN
+        - Building the business migration case with Linux and OSS DB to Azure
+        - Scalable Cloud Networking With Azure Virtual WAN
+        - Migrate Windows Servers To Azure
+        - Low Code Development With Power Apps & Power Automate
+        - Power BI Embedded Hands On Lab
+        - Azure OpenAI + NLP Using ChatGPT On SQL Engine
+        - Governance with Power Platform
+        - Migrating DB From Single Server To Flexible Postgres SQL Server
+                 
+---------------------------------------------------------------------
 ### 27 January 2026
 
 * Newly added Instructor-Led tracks:
