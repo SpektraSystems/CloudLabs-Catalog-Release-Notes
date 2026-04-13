@@ -39,7 +39,9 @@
      * Azure HPC with CycleCloud
  
  * Taken down some of the retired Instructor-Led Tracks:
-   * 
+   * Intelligent App Development With Microsoft Copilot Stack
+   * Activate GenAI With Azure
+   * DevOps And DevSecOps (Accelerate Developer Productivity)
 
 -------------------------------------------------------------
 ### 27 January 2026
