@@ -4,6 +4,44 @@
    - Microsoft Branded Catalog - To be exported from ERM Portal directly.
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
+### April 2026
+
+* Newly added Instructor-Led tracks:
+     * Building and Managing AI Agents using Azure Agents Control Plane
+
+------------------------------------------------------------------
+### March 2026
+
+* Newly added Instructor-Led tracks:
+     * Hack the Stack - Azure AI Apps & Databases
+     * Build and Deploy Agentic AI Solutions
+     * Flow, Secure, Scale - Build AI Apps with Agentic DevOps
+     * Intelligent Observability for Microsoft Azure: Hands-On Workshop
+     * Hands on Lab: GitHub Copilot - Advanced Usage throughout the Software Development Lifecycle
+     * Migrate to AKS with GitHub Copilot for App Modernization
+     * Hands on Lab: Modern SecOps with Unified Platform
+     * GitHub Copilot - Zero to Agents in 2 Hours
+     * Hands on Lab: Building Security Copilot Agents Using Microsoft Sentinel Data
+     * 
+ 
+ * Taken down some of the retired Instructor-Led Tracks:
+   * 
+
+---------------------------------------------------------
+### February 2026
+
+* Newly added Instructor-Led tracks:
+     * Agentic AI in Action: Copilot Studio + Azure
+     * GitHub Copilot Impact for Managers and Pre-Sales Teams
+     * Accelerating Development with GitHub Copilot & Copilot Chat
+     * Build and Enhance a Safe Travels Agent with Multi-Agent Orchestration
+     * Leave Management System with Microsoft Copilot Studio
+     * Azure HPC with CycleCloud
+ 
+ * Taken down some of the retired Instructor-Led Tracks:
+   * 
+
+-------------------------------------------------------------
 ### 27 January 2026
 
 * Newly added Instructor-Led tracks:
