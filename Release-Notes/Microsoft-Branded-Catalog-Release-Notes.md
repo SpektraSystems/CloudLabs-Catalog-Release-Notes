@@ -4,13 +4,8 @@
    - Microsoft Branded Catalog - To be exported from ERM Portal directly.
    - [New-Offerings-Catalog-On-Demand-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/EdHEzN96JldBvVsZimShPb4BLYEOhSoUXQFPEAZBPfIchQ?e=e3yk3a)
 
-### April 2026
-
-* Newly added Instructor-Led tracks:
-     * Building and Managing AI Agents using Azure Agents Control Plane
-
 ------------------------------------------------------------------
-### March 2026
+### 31st March 2026
 
 * Newly added Instructor-Led tracks:
      * Hack the Stack - Azure AI Apps & Databases
@@ -22,10 +17,29 @@
      * Hands on Lab: Modern SecOps with Unified Platform
      * GitHub Copilot - Zero to Agents in 2 Hours
      * Hands on Lab: Building Security Copilot Agents Using Microsoft Sentinel Data
-     * 
  
- * Taken down some of the retired Instructor-Led Tracks:
-   * 
+*  Taken down some of the retired Instructor-Led Tracks:
+   * Citrix To AVD Migration
+   * Building a resilient IaaS architecture
+   * Expanding Azure Virtual WAN To Support Your Global Network
+   * Nerdio Manager For MSP
+   * Azure Well-Architected Resiliency Gaps Remediation
+   * Empower Knowledge Workers Using Azure OpenAI With MS Teams And Azure Bot Service
+   * Call Center Data Analysis Using Azure AI Services And Azure OpenAI
+   * Cloud Native Applications
+   * Real-Time Analytics With Synapse
+   * Create And Run Data Pipeline With Data Factory
+   * Advanced Azure Networking With Azure Virtual WAN
+   * Building the business migration case with Linux and OSS DB to Azure
+   * Scalable Cloud Networking With Azure Virtual WAN
+   * Migrate Windows Servers To Azure
+   * Low Code Development With Power Apps & Power Automate
+   * Power BI Embedded Hands On Lab
+   * Azure OpenAI + NLP Using ChatGPT On SQL Engine
+   * Governance with Power Platform
+   * Migrating DB From Single Server To Flexible Postgres SQL Server
+
+> **Note:** To maintain up-to-date and relevant content, a few labs have been removed in this release as they were based on outdated material or services that have since been retired.
 
 ---------------------------------------------------------
 ### February 2026
@@ -42,6 +56,13 @@
    * Intelligent App Development With Microsoft Copilot Stack
    * Activate GenAI With Azure
    * DevOps And DevSecOps (Accelerate Developer Productivity)
+  
+> **Note**: The latest upgraded content lab are being replaced.
+
+  * Below are the new labs going to onboarded in March and will be live soon:
+     * Hack the Stack - Azure AI Apps & Databases
+     * Build and Deploy Agentic AI Solutions
+     * Flow, Secure, Scale - Build AI Apps with Agentic DevOps
 
 -------------------------------------------------------------
 ### 27 January 2026
