@@ -2,6 +2,26 @@
 
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQBV_dnbUZcUQ5QpxfhWvY6AAe3e6jc2-Akoaz35zwecxUA?e=XnHSaQ)
 
+### 04 June 2026
+
+* Newly added Instructor-Led tracks:
+  - Modern SecOps with Unified Platform
+  - GitHub Copilot - Zero to Agents in 2 Hours
+  - Building Security Copilot Agents Using Microsoft Sentinel Data
+  - Intelligent Observability for Microsoft Azure: Hands-On Workshop
+  - Building and Managing AI Agents using Azure Agents Control Plane
+  - SQL AI App in a day
+  - Implementing Dynamics 365 Contact Center
+  - M365 Copilot Immersion Briefing Lab
+  - Infrastructure as Code with Terraform Workshop
+  - Implement Microsoft Defender for Endpoint
+  - Modern Identity Governance & Secure Access with Microsoft Entra
+
+* Newly added Self-Paced track:
+  - M365 Copilot Immersion Briefing Lab
+
+---------------------------------------------------------------------
+
 ### 06 April 2026
 
 * Newly added Instructor-Led tracks:
