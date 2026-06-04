@@ -1,6 +1,6 @@
 # Release Notes
 
-### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/:b:/s/CloudLabs-Services/IQBV_dnbUZcUQ5QpxfhWvY6AAe3e6jc2-Akoaz35zwecxUA?e=XnHSaQ)
+### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/Forms/AllItems.aspx?viewid=362f4136%2Da2a4%2D413e%2Dad7e%2D741d3e349183&ct=1780571567930&or=Teams%2DHL&ga=1&LOF=1&id=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2F2026%2FCloudLabs%5FCatalogue%20V040626%20MOC%20MS%20%2Epdf&parent=%2Fsites%2FCloudLabs%2DServices%2FShared%20Documents%2FGeneral%2FCloudLabs%2DCatalog%2DReleases%2F2026)
 
 ### 04 June 2026
 
