@@ -6,7 +6,7 @@
 
 ### 23 September 2026
 
-* Incremental Update - Catalog grown to **168 tracks**, with 7 additions, 2 retirements and 46 tracks refreshed.
+* Incremental Update - Catalog grown to **168 tracks**, with 7 additions, 2 retirements and 3 tracks refreshed.
 
 * Catalog shape:
 
