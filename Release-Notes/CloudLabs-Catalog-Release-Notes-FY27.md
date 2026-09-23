@@ -1,5 +1,80 @@
 # Release Notes - FY27
 
+### CloudLabs-Common-Catalog
+
+### 23 September 2026
+
+* Incremental Update - Catalog grown to **168 tracks**, with 7 additions, 2 retirements and 46 tracks refreshed.
+
+* Catalog shape:
+
+  | Solution Area | Guided Labs | Challenge Labs | MOC Courses | Total |
+  | --- | --- | --- | --- | --- |
+  | Cloud and AI Platform | 82 | 8 | 20 | 110 |
+  | AI Business Solutions | 21 | 1 | 13 | 35 |
+  | Security | 18 | 0 | 5 | 23 |
+  | **Total** | **121** | **9** | **38** | **168** |
+
+* Tracks by Conversation:
+
+  | Solution Area | Conversation | Tracks |
+  | --- | --- | --- |
+  | Cloud and AI Platform | Ubiquitous Innovation | 62 |
+  | Cloud and AI Platform | Modernize with confidence | 25 |
+  | Cloud and AI Platform | Build a unified, governed data and AI estate | 16 |
+  | Cloud and AI Platform | Amplify your intelligence | 7 |
+  | AI Business Solutions | Agentify your business processes | 15 |
+  | AI Business Solutions | AI in the flow of human ambition | 15 |
+  | AI Business Solutions | AI-ready productivity and security for every employee | 5 |
+  | Security | Establish a trusted and secure platform for AI | 23 |
+
+* Newly added Guided Labs:
+  - Azure Copilot assisted Migration (CL-FY27-0166)
+  - Build Production-Ready AI Agents-Faster (CL-FY27-0167)
+  - Migrate & Modernize SQL Servers To Azure (CL-FY27-0168)
+  - Build an AI app with Azure SQL Hyperscale, Microsoft Fabric and Microsoft Foundry (CL-FY27-0169)
+  - Create advanced Postgres-powered agentic apps with Azure HorizonDB (CL-FY27-0170)
+
+* Newly added MOC Courses:
+  - GH-300: Mastering GitHub Copilot (CL-FY27-0164)
+  - AZ-400: Designing and Implementing Microsoft DevOps Solutions (CL-FY27-0165)
+
+* Taken down retired Courses:
+  - AZ-500: Microsoft Azure Security Technologies
+  - PL-200: Microsoft Power Platform Functional Consultant
+
+    > **Note**: Both retired on the Microsoft exam schedule and have been removed from the source catalog. Their reference codes are not reused, so a quoted code keeps pointing at the track it was quoted for.
+
+* Existing tracks refreshed with new content:
+
+  | Track | Update |
+  | --- | --- |
+  | Develop Generative AI solutions with Azure OpenAI Service | Retitled **Develop Generative AI Solutions with Microsoft Foundry**, with a new overview, prerequisites, topics and a seven part hands-on agenda covering gpt-5-mini, gpt-image-1.5, RAG and guardrails |
+  | Data Modernization | Rebuilt around Azure SQL Managed Instance with App Service VNet integration. Duration corrected from 8 hours to 4 |
+  | AI Agents using Microsoft Agent Framework | Refreshed for Microsoft Agent Framework and MCP tool integration, level moved from Beginner to Intermediate |
+
+* MOC Course updates, applied across all 38 courses:
+  - Every course now carries its **Microsoft Learning Path** link, shown on the track page directly above the Lab Guide Preview and as a second call to action on the slide.
+  - **Status** is now published per course as stated in the source catalog: 12 Available and 26 On-Demand.
+  - The **Microsoft course duration** is now published per course, in the source catalog's own wording.
+
+* Availability wording is now consistent:
+  - **On-Demand** replaces *On request* everywhere. The two named the same thing, so a reader met two labels for one state.
+  - Every track states how it is offered, on its card, on its track page, in the Filters panel and on its slide. Availability now reads 134 Available and 34 On-Demand across the catalog.
+
+* Lab guide previews:
+  - **All 168 tracks now carry a lab guide preview**, each one opened and checked against its track before publishing. No preview is shared between two tracks.
+  - This closes the gap noted in the August release, where tracks without a guide were marked On request.
+
+* Catalog experience updates:
+  - **Trending now** band on the launch page, covering Microsoft Foundry, Microsoft Fabric, GitHub Copilot, Microsoft 365 Copilot, Copilot Studio and Cowork. Counts follow the selected lab type.
+  - **Availability filter** added to the Filters panel, so MOC courses can be split into Available and On-Demand.
+  - Cards now show the real status of a track rather than a blanket Available.
+  - **Export options**: the catalog can be exported whole, by delivery type, or as a chosen set of tracks, in Excel or PDF.
+  - **Per track PDF export**: every track page can be downloaded on its own as a short branded PDF named after its reference code.
+
+---
+
 ### [CloudLabs-Common-Catalog](https://spektrasystems.sharepoint.com/sites/CloudLabs-Services/Shared%20Documents/General/CloudLabs-Catalog-Releases/2026/Cloudlabs-Catalog-FY27-21082026.pdf)
 
 ### 21 August 2026
