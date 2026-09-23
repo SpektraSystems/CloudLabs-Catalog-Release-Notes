@@ -2,6 +2,8 @@
 
 ### CloudLabs-Common-Catalog
 
+## [WebApp Catalog URL](https://cloudlabs-catalog.redflower-be1604a1.centralus.azurecontainerapps.io/)
+
 ### 23 September 2026
 
 * Incremental Update - Catalog grown to **168 tracks**, with 7 additions, 2 retirements and 46 tracks refreshed.
